@@ -1,0 +1,80 @@
+
+.okok{
+
+   background-color: rgb(217, 247, 247);
+   background-image: url(clothings1.jpg);
+}
+.para{
+   font-variant-caps: all-petite-caps;
+   font-style: italic;
+   float:right;
+   padding-top: 120px;
+}
+.kk{color:orange;
+   font-size: 80px;
+   
+
+
+
+}
+
+.font{
+   font-size: 25px;
+   text-align: center;
+   color: green;
+   background-color:rgb(213, 206, 206);
+   padding: 0%;
+   position: fixed;
+   
+   
+   align-items: center;
+   
+}
+.jki{
+   background-color: rgb(241, 240, 237);
+}
+
+.kkk{
+   background: url(clothing3.jpg);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.regform{
+
+   width: 550px;
+   margin: 145px auto;
+   padding: 10px 20px 30px;
+   background-color: rgba(0,0,0,.4);
+   color: white;
+   font-size: 20px;
+   border-radius: 10px;
+}
+.regform h3{
+   text-align: center;
+   color: #E29578;
+}
+.regform .textlabel{
+   display: block;
+}
+.input input{
+width: 100%;
+font-size: 1.2em;
+border: 1px solid #006D77;
+box-shadow: 50px;
+border-radius: 8px;
+padding: 5px 10px;
+box-sizing: border-box;
+margin: 5px 0px 15px;
+}
+.btn{
+   text-align: center;
+}
+button{
+   font-size: 20px;
+   margin-top: 20px;
+   border-radius: 5px;
+}
+.yhb{
+
+   background-color:rgb(251, 246, 246);
+}
+
